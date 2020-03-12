@@ -16,7 +16,7 @@ Identify a model with best prediction capacity
 Explored Logistic Regression, Support Vector Machine, and Deep-Learning model to classify the candidate exoplanets. Model accuracy was examined by fitting the test data. Deep Learning model has the highest accuracy 0.89 and it was also better at predicting new exoplanets.
 
 ### Prediction
-Out of 20 test data the model only misidentified one data <br>
+Out of 20 test data the deep-learning model only misidentified one data <br>
 ![4-scatter](Images/model_predict.PNG)
 
 ### Repository navigation
