@@ -12,10 +12,11 @@ This dataset has an extensive data dictionary, which can be accessed here (https
 Evaluate different machine learning model to predict new exoplanets based on Kepler observation data
 Identify a model with best prediction capacity
 
-### Method
+### Method and Observation
 Explored Logistic Regression, Support Vector Machine, and Deep-Learning model to classify the candidate exoplanets. Model accuracy was examined by fitting the test data. Deep Learning model has the highest accuracy 0.89 and it was also better at predicting new exoplanets.
 
 ### Prediction
+Out of 20 test data the model only misidentified one data <br>
 ![4-scatter](Images/model_predict.PNG)
 
 ### Repository navigation
