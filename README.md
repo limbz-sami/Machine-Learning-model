@@ -21,12 +21,12 @@ Models_evaluate consist of all the jupyter notebooks with model evaluation<br>
 2) logistic_model.ipynb<br>
 3) SVM_model.ipynb<br>
 
-saved models for future used<br>
+Saved models for future used<br>
 1) deeplearning_model.sav <br>
 2) logistic_model.sav<br>
 3) svm.sav<br>
 
-data<br>
+Data<br>
 1) exoplanet_data.csv<br>
 
 
