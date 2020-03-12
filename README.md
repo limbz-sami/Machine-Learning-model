@@ -9,7 +9,7 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 This dataset has an extensive data dictionary, which can be accessed here (https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html).
 
 ### Goal
-Evaluate different machine learning model to predict new exoplanets based on Kepler observation data
+Evaluate different machine learning model to predict new exoplanets based on Kepler observation data<br>
 Identify a model with best prediction capacity
 
 ### Method and Observation
