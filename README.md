@@ -1,4 +1,4 @@
-# Classify candidate exoplanet based on Kepler observations
+## Classify Candidate Exoplanet Based on Kepler Observations
 Evaluating different machine learning model to classify candidate exoplanet from NASA raw data-set
 
 ### Data Source
@@ -9,11 +9,15 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 This dataset has an extensive data dictionary, which can be accessed here (https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html).
 
 ### Goal
-Evaluate different machine learning model to predict new exoplanets based on Kepler observation data
+Evaluate different machine learning model to predict new exoplanets based on Kepler observation data<br>
 Identify a model with best prediction capacity
 
-### Method
+### Method and Observation
 Explored Logistic Regression, Support Vector Machine, and Deep-Learning model to classify the candidate exoplanets. Model accuracy was examined by fitting the test data. Deep Learning model has the highest accuracy 0.89 and it was also better at predicting new exoplanets.
+
+### Prediction
+Out of 20 test data the deep-learning model only misidentified one data <br>
+![4-scatter](Images/model_predict.PNG)
 
 ### Repository navigation
 Models_evaluate consist of all the jupyter notebooks with model evaluation<br>
