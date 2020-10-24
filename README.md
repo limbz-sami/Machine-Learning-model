@@ -28,9 +28,8 @@ Models_evaluate consist of all the jupyter notebooks with model evaluation<br>
 Saved models for future use<br>
 1) DL_model.pkl <br>
 2) LR_model.pkl<br>
-3) SVM_model.sav<br>
 3) MLP_model.pkl<br>
-3) RF_model.pkl<br>
+4) RF_model.pkl<br>
 
 Data<br>
 1) exoplanet_data.csv (Principal-data)<br>
