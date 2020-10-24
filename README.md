@@ -13,7 +13,7 @@ Evaluate different machine learning model to predict new exoplanets based on Kep
 Identify a model with best prediction capacity
 
 ### Method and Observation
-The data was first divided into train(60%), test(20%) and validation data(20%). Logistic Regression, RandomForest, Multilayer perceptron, Support Vector Machine, and Deep-Learning model explored on train-data. Model prediction was examined by fitting the test data, and model-accuracy was examined on validation data. RandomForest has the highest accuracy 0.9 and it was also better at predicting new exoplanets.
+The data was first divided into train(60%), test(20%) and validation data(20%). Logistic Regression, RandomForest, Multilayer perceptron, Support Vector Machine, and Deep-Learning model explored on train-data. Model prediction was examined by fitting the test data, and model-accuracy was examined on validation data. Deep Learning and RandomForest has the highest accuracy 0.9 and it was also better at predicting new exoplanets.
 
 ### Prediction
 Out of 20 test data the RandomForest only misidentified one test data <br>
