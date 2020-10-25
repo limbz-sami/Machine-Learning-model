@@ -23,7 +23,8 @@ Out of 20 test data the RandomForest only misidentified one test data <br>
 Models_evaluate consist of all the jupyter notebooks with model evaluation<br>
 1) DeepLearning-model.ipynb<br>
 2) logistic_model.ipynb<br>
-3) SVM_model.ipynb<br>
+3) RandomForest_model.ipynb<br>
+4) Multilayer_Perceptron-model.ipynb<br>
 
 Saved models for future use<br>
 1) DL_model.pkl <br>
